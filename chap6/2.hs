@@ -1,0 +1,4 @@
+-- Using the definitions given in the chapter, show how 
+-- length [1, 2, 3]
+-- drop 3 [1, 2, 3, 4, 5] and
+-- init [1, 2, 3] are evaluated
